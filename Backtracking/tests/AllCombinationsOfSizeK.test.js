@@ -1,4 +1,4 @@
-import { Combinations } from '../AllCombinationsOfSizeK'
+import { Combinations } from '../AllCombinationsOfSizeK/Javascript'
 
 describe('AllCombinationsOfSizeK', () => {
   it('should return 3x2 matrix solution for n = 3 and k = 2', () => {
